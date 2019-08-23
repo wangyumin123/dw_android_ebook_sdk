@@ -3,12 +3,14 @@
   <groupId>dw</groupId>
   <artifactId>ebook_sdk</artifactId>
   <versioning>
-    <release>1.1.8-beta</release>
+    <release>1.2.0-beta</release>
     <versions>
       <version>1.1.6-beta</version>
       <version>1.1.7-beta</version>
       <version>1.1.8-beta</version>
+      <version>1.1.9-beta</version>
+      <version>1.2.0-beta</version>
     </versions>
-    <lastUpdated>20190823051437</lastUpdated>
+    <lastUpdated>20190823063453</lastUpdated>
   </versioning>
 </metadata>
